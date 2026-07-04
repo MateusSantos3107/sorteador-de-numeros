@@ -1,0 +1,65 @@
+🎲 Sorteador de Números
+
+Aplicação web simples que sorteia um número aleatório dentro de um intervalo definido pelo usuário.
+
+📋 Sobre o projeto
+
+O usuário informa um valor mínimo e um valor máximo, clica em "Sortear" e o número sorteado aparece diretamente na tela, dentro de uma caixa de resultado — sem uso de alert(), priorizando uma experiência mais fluida.
+
+ Funcionalidades
+
+
+Definição de intervalo (mínimo e máximo) para o sorteio
+Geração de número aleatório dentro do intervalo escolhido
+Exibição do resultado em uma caixa estilizada na própria interface
+
+
+🛠️ Tecnologias utilizadas
+
+
+HTML5
+CSS3
+JavaScript (Vanilla)
+
+
+💻 Como executar o projeto
+
+
+Clone este repositório
+
+
+bash   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+
+Abra o arquivo index.html no navegador
+
+
+Não é necessário nenhuma instalação ou dependência extra.
+
+📸 Demonstração
+
+(adicione aqui um print ou gif do projeto funcionando)
+
+📚 Aprendizados
+
+Este projeto foi desenvolvido durante meus estudos de JavaScript e reforçou conceitos como:
+
+
+Manipulação do DOM
+Eventos (onclick)
+Lógica de programação (geração de números aleatórios com Math.random)
+Boas práticas de UX (evitar alert() e exibir resultados na própria interface)
+
+
+👤 Autor
+
+Desenvolvido por Mateus Santos Araújo, desenvolvedor fullstack em formação.
+
+
+LinkedIn
+GitHub
+
+
+📄 Licença
+
+Este projeto está sob a licença MIT.
